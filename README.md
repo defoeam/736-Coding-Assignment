@@ -98,7 +98,7 @@ Default GA configuration:
 - **Generations**: 200 maximum (with early stopping)
 - **Crossover Rate**: 0.8 (80%)
 - **Mutation Rate**: 0.02 (2%)
-- **Lambda Weight**: 0.5 (cost-coverage trade-off)
+- **Lambda Weight**: 0.1 (coverage prioritizations)
 - **Alpha Penalty**: 2.0 (budget violation penalty)
 
 ## Algorithm Components
