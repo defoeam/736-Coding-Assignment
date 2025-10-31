@@ -1,0 +1,12 @@
+{
+  "id": "02",
+  "name": "Dense City Center",
+  "num_candidates": 15,
+  "num_demand": 100,
+  "grid_size": [
+    40,
+    40
+  ],
+  "coverage_radius": 4.0,
+  "budget": 75000
+}

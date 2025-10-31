@@ -1,0 +1,12 @@
+{
+  "id": "05",
+  "name": "Large Metro Area",
+  "num_candidates": 25,
+  "num_demand": 150,
+  "grid_size": [
+    100,
+    100
+  ],
+  "coverage_radius": 10.0,
+  "budget": 150000
+}

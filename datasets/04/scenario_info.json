@@ -1,0 +1,12 @@
+{
+  "id": "04",
+  "name": "Budget Constrained",
+  "num_candidates": 12,
+  "num_demand": 60,
+  "grid_size": [
+    50,
+    50
+  ],
+  "coverage_radius": 5.0,
+  "budget": 30000
+}

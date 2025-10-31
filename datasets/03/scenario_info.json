@@ -1,0 +1,12 @@
+{
+  "id": "03",
+  "name": "Suburban Sprawl",
+  "num_candidates": 20,
+  "num_demand": 80,
+  "grid_size": [
+    80,
+    80
+  ],
+  "coverage_radius": 8.0,
+  "budget": 100000
+}

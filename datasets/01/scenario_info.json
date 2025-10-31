@@ -1,0 +1,12 @@
+{
+  "id": "01",
+  "name": "Small Urban Area",
+  "num_candidates": 10,
+  "num_demand": 50,
+  "grid_size": [
+    50,
+    50
+  ],
+  "coverage_radius": 5.0,
+  "budget": 50000
+}
