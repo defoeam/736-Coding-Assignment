@@ -101,16 +101,6 @@ Default GA configuration:
 - **Lambda Weight**: 0.5 (cost-coverage trade-off)
 - **Alpha Penalty**: 2.0 (budget violation penalty)
 
-## Results Summary
-
-| ID | Scenario               | Stations | Total Cost | Coverage | Fitness |
-|----|------------------------|----------|------------|----------|---------|
-| 01 | Small Urban Area       | 3        | $10,903    | 12.0%    | 0.0490  |
-| 02 | Dense City Center      | 3        | $18,673    | 17.0%    | 0.0822  |
-| 03 | Suburban Sprawl        | 6        | $31,519    | 23.8%    | 0.0793  |
-| 04 | Budget Constrained     | 1        | $5,071     | 6.7%     | 0.0086  |
-| 05 | Large Metro Area       | 11       | $66,043    | 35.3%    | 0.1744  |
-
 ## Algorithm Components
 
 ### Chromosome Representation
